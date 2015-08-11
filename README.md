@@ -1,5 +1,7 @@
 # ohmageX v3.0.3
 
+[![Join the chat at https://gitter.im/ucla/ohmageX](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ucla/ohmageX?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [ohmage](http://ohmage.org/) is an open-source, mobile to web platform that records, analyzes, and visualizes data from both prompted experience samples entered by the user, as well as continuous streams of data passively collected from sensors or applications onboard the mobile device. 
 
 **ohmageX** is a revamped version of ohmage MWF, which aims to deliver a single-source and platform-independent mobile application integrated with the Ohmage API. It includes enhancements such as a modular event-driven architecture with [Backbone](http://backbonejs.org/) + [Marionette](http://marionettejs.com/), automated development workflow enhancements, and extensive use of preprocessors (e.g. [Coffeescript](http://coffeescript.org/) and [SASS](http://sass-lang.com/)).
